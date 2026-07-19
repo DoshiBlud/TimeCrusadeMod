@@ -1,0 +1,1185 @@
+Items: {
+	TheStick: {
+		Tooltip: ""
+		DisplayName: The Stick
+	}
+
+	CrystalGun: {
+		DisplayName: Crystal Gun
+		Tooltip: ""
+	}
+
+	SharpShooterSavior: {
+		DisplayName: Sharp Shooter Savior
+		Tooltip: ""
+	}
+
+	StarlightPiercer: {
+		DisplayName: Starlight Piercer
+		Tooltip: ""
+	}
+
+	BoulderSword: {
+		DisplayName: Boulder Sword
+		Tooltip: ""
+	}
+
+	CraftyRod: {
+		DisplayName: Crafty Rod
+		Tooltip: ""
+	}
+
+	TunctumBar: {
+		DisplayName: Tunctum Bar
+		Tooltip: ""
+	}
+
+	TunctumOre: {
+		DisplayName: Tunctum Ore
+		Tooltip: ""
+	}
+
+	SciFiBar: {
+		DisplayName: SciFi Bar
+		Tooltip: ""
+	}
+
+	SciFiOre: {
+		DisplayName: SciFi Ore
+		Tooltip: ""
+	}
+
+	Twig: {
+		DisplayName: Twig
+		Tooltip: ""
+	}
+
+	SciFiPickaxe: {
+		DisplayName: SciFi Pickaxe
+		Tooltip: ""
+	}
+
+	StarDevourer: {
+		DisplayName: Star Devourer
+		Tooltip: ""
+	}
+
+	BOB: {
+		DisplayName: B O B
+		Tooltip: ""
+	}
+
+	TheRockSummon: {
+		DisplayName: The Rock Summon
+		Tooltip: ""
+	}
+
+	BrittleRockSummon: {
+		DisplayName: Brittle Rock Summon
+		Tooltip: ""
+	}
+
+	BrittleRockBag: {
+		DisplayName: Treasure Bag Asphalia
+		Tooltip: ""
+	}
+
+	BrittleRock: {
+		DisplayName: Brittle Rock
+		Tooltip: Summons Asphalia
+	}
+
+	TreasureBagBrittleRock: {
+		DisplayName: Treasure Bag Brittle Rock
+		Tooltip: ""
+	}
+
+	GladiatorsPrimeSlicer: {
+		DisplayName: Gladiators Prime Slicer
+		Tooltip: ""
+	}
+
+	RockofAsphaliaBag: {
+		DisplayName: Rockof Asphalia Bag
+		Tooltip: ""
+	}
+
+	AsphaliaBag: {
+		DisplayName: Treasure Bag (Asphalia)
+		Tooltip: ""
+	}
+
+	SaliquentBlade: {
+		DisplayName: Saliquent Blade
+		Tooltip:
+			'''
+			-Creates a massive forcefield of deadly projectiles to protect you from your enemies.
+
+			-When let go, the shield explodes, killing anything around yound you. 
+
+			-It also gives you lots of light! :D"
+
+			'''
+	}
+
+	GalacticBlade: {
+		DisplayName: Galactic Blade
+		Tooltip:
+			'''
+			-Shoots a very powerful short beam that follows its foes.
+
+			-Shoots orbs around you to damge a enemies in the air or ground.
+
+			'''
+	}
+
+	SoulBook: {
+		DisplayName: Soul Book
+		Tooltip: ""
+	}
+
+	PlanetaryShifter: {
+		DisplayName: Planetary Shifter
+		Tooltip: ""
+	}
+
+	NeutralityBar: {
+		DisplayName: Neutrality Bar
+		Tooltip:
+			'''
+			'Shines with the perfect 
+			point of neutralness'
+			'''
+	}
+
+	NeutralityShifter: {
+		DisplayName: Neutrality Shifter
+		Tooltip:
+			'''
+			-Shoots a alot of meteors that does immense damage
+			and uses neutrality to consume its enemies.
+			'''
+	}
+
+	NeutralitySharpShooter: {
+		DisplayName: Neutrality Sharp Shooter
+		Tooltip:
+			'''
+			-Shoots a very powerful bullet that uses neutrality
+			to pierce its enemies.
+			'''
+	}
+
+	ElementalBar: {
+		DisplayName: Elemental Bar
+		Tooltip: ""
+	}
+
+	QualityAnalizer: {
+		DisplayName: Quality Analizer
+		Tooltip: ""
+	}
+
+	StaffofSolidification: {
+		DisplayName: Staff of Solidification
+		Tooltip: ""
+	}
+
+	ElementalBreastplate: {
+		DisplayName: Elemental Breastplate
+		Tooltip:
+			'''
+			-Increases Mana by 20
+			-Increases minion slot by 1
+			'''
+	}
+
+	ElementalHelmet: {
+		SetBonus: Increasea overall damage by 2
+		Tooltip: ""
+		DisplayName: Elemental Helmet
+	}
+
+	ElementalLeggings: {
+		DisplayName: Elemental Leggings
+		Tooltip: -Increases speed by 5
+	}
+
+	MuddyBow: {
+		DisplayName: Muddy Bow
+		Tooltip: ""
+	}
+
+	KickerBow: {
+		DisplayName: Kicker Bow
+		Tooltip: ""
+	}
+
+	JungleSaber: {
+		DisplayName: Jungle Saber
+		Tooltip: ""
+	}
+
+	CubeofLife: {
+		DisplayName: Cube of Life
+		Tooltip:
+			'''
+			'Life seems to be thriving
+			within the very cube!'
+			'''
+	}
+
+	LunaticSupporterPotion: {
+		DisplayName: Lunatic Supporter Potion
+		Tooltip: ""
+	}
+
+	SunlitDrink: {
+		DisplayName: Sunlit Drink
+		Tooltip: ""
+	}
+
+	Scrap: {
+		DisplayName: Scrap
+		Tooltip: ""
+	}
+
+	ScrapPickaxe: {
+		DisplayName: Scrap Pickaxe
+		Tooltip: ""
+	}
+
+	KingsGlamour: {
+		DisplayName: Kings Glamour
+		Tooltip: ""
+	}
+
+	SoulofDeath: {
+		DisplayName: Soul of Death
+		Tooltip: "'Gone, reduced to atoms'"
+	}
+
+	NeutralityBlade: {
+		DisplayName: Neutrality Blade
+		Tooltip: ""
+	}
+
+	NeutralityBullet: {
+		DisplayName: Neutrality Bullet
+		Tooltip: ""
+	}
+
+	CrusaderBar: {
+		DisplayName: Crusader Bar
+		Tooltip: ""
+	}
+
+	ClockworkEssence: {
+		DisplayName: Clockwork Essence
+		Tooltip: ""
+	}
+
+	CrusadersKey: {
+		DisplayName: Crusaders Key
+		Tooltip: ""
+	}
+
+	ZilvicOre: {
+		DisplayName: Zilvic Ore
+		Tooltip: ""
+	}
+
+	CrusaderAnvil: {
+		DisplayName: Crusader Anvil
+		Tooltip: ""
+	}
+
+	StarlightIntersection: {
+		DisplayName: Starlight Intersection
+		Tooltip: ""
+	}
+
+	SupremeStarShooter: {
+		DisplayName: Supreme Star Shooter
+		Tooltip: ""
+	}
+
+	CrusadersHelmet: {
+		DisplayName: Crusaders Helmet
+		Tooltip: ""
+		SetBonus: Mods.TimeCrusadeMod.Items.CrusadersHelmet.SetBonus
+	}
+
+	ContortedElement: {
+		DisplayName: Contorted Element
+		Tooltip: ""
+	}
+
+	ContortedElemence: {
+		DisplayName: Contorted Elemence
+		Tooltip: ""
+	}
+
+	StonedSlicer: {
+		DisplayName: Stoned Slicer
+		Tooltip: ""
+	}
+
+	RockyStaff: {
+		DisplayName: Rocky Staff
+		Tooltip: ""
+	}
+
+	AsphaliaRelic: {
+		DisplayName: Asphalia Relic
+		Tooltip: ""
+	}
+
+	WoodenKnife: {
+		DisplayName: Wooden Knife
+		Tooltip: ""
+	}
+
+	CondensedStone: {
+		DisplayName: Condensed Stone
+		Tooltip: ""
+	}
+
+	NeutralTorch: {
+		Tooltip: ""
+		DisplayName: Neutral Torch
+	}
+
+	NeutralCampfire: {
+		Tooltip: ""
+		DisplayName: Neutral Campfire
+	}
+
+	NeutralBlock: {
+		Tooltip: ""
+		DisplayName: Neutral Block
+	}
+
+	NeutralStone: {
+		DisplayName: Neutral Stone
+		Tooltip: ""
+	}
+
+	FlowerSeedBullet: {
+		DisplayName: Flower Seed Bullet
+		Tooltip: ""
+	}
+
+	PeddleShooter: {
+		DisplayName: Peddle Shooter
+		Tooltip: ""
+	}
+
+	ElementalBlade: {
+		DisplayName: Elemental Blade
+		Tooltip: ""
+	}
+
+	NeutralChisel: {
+		DisplayName: Neutral Chisel
+		Tooltip: ""
+	}
+
+	QuantumLauncher: {
+		Tooltip: ""
+		DisplayName: Quantum Launcher
+	}
+
+	NeutralWormBanner: {
+		DisplayName: Neutral Worm Banner
+		Tooltip: ""
+	}
+
+	WormofNeutralityBanner: {
+		DisplayName: Worm of Neutrality Banner
+		Tooltip: ""
+	}
+
+	CrusadersStonedFirearm: {
+		DisplayName: Crusaders Stoned Firearm
+		Tooltip: ""
+	}
+
+	NeutralityCrystal: {
+		DisplayName: Neutrality Crystal
+		Tooltip: ""
+	}
+
+	CrusadersSphericalFormula: {
+		DisplayName: Crusaders Spherical Formula
+		Tooltip: ""
+	}
+
+	CrusadersBreastplate: {
+		DisplayName: Crusaders Breastplate
+		Tooltip: ""
+	}
+
+	CrusadersLeggings: {
+		DisplayName: Crusaders Leggings
+		Tooltip: ""
+	}
+
+	NeutralStoneBrick: {
+		Tooltip: ""
+		DisplayName: Neutral Stone Brick
+	}
+
+	NeutralityCrystalBrick: {
+		Tooltip: ""
+		DisplayName: Neutrality Crystal Brick
+	}
+
+	NeutralChiselBrick: {
+		Tooltip: ""
+		DisplayName: Neutral Chisel Brick
+	}
+
+	NeutralStoneBrickWall: {
+		DisplayName: Neutral Stone Brick Wall
+		Tooltip: ""
+	}
+
+	NeutralChiselBrickWall: {
+		DisplayName: Neutral Chisel Brick Wall
+		Tooltip: ""
+	}
+
+	NeutralityCrystalBrickWall: {
+		DisplayName: Neutrality Crystal Brick Wall
+		Tooltip: ""
+	}
+
+	NeutralChair: {
+		DisplayName: Neutral Chair
+		Tooltip: ""
+	}
+
+	NeutralityFragments: {
+		DisplayName: Neutrality Fragments
+		Tooltip: ""
+	}
+
+	NeutralTable: {
+		DisplayName: Neutral Table
+		Tooltip: ""
+	}
+
+	NeutralDoor: {
+		DisplayName: Neutral Door
+		Tooltip: ""
+	}
+
+	Decomposer: {
+		DisplayName: Decomposer
+		Tooltip: ""
+	}
+
+	ColeadOre: {
+		DisplayName: Colead Ore
+		Tooltip: ""
+	}
+
+	TitraniumOre: {
+		DisplayName: Titranium Ore
+		Tooltip: ""
+	}
+
+	TitraniumBar: {
+		DisplayName: Titranium Bar
+		Tooltip: ""
+	}
+
+	QualityAnalyzer: {
+		DisplayName: Quality Analyzer
+		Tooltip: ""
+	}
+
+	TrampledDirt: {
+		DisplayName: Trampled Dirt
+		Tooltip: ""
+	}
+
+	MushroomLauncher: {
+		DisplayName: Mushroom Launcher
+		Tooltip: ""
+	}
+
+	DuelMushroomBasher: {
+		DisplayName: Duel Mushroom Basher
+		Tooltip: ""
+	}
+
+	MushroomBlade: {
+		DisplayName: Mushroom Blade
+		Tooltip: ""
+	}
+
+	ElementalProtectorStaff: {
+		DisplayName: Elemental Protector Staff
+		Tooltip: ""
+	}
+
+	ElementalWhip: {
+		DisplayName: Elemental Whip
+		Tooltip: ""
+	}
+
+	TinkeringClockworks: {
+		Tooltip: ""
+		DisplayName: Tinkering Clockworks
+	}
+
+	MagnifiedRock: {
+		Tooltip: ""
+		DisplayName: Magnified Rock
+	}
+
+	TimeModuleBlade: {
+		DisplayName: Time Module Blade
+		Tooltip: ""
+	}
+
+	IntersectionofStars: {
+		DisplayName: Intersection of Stars
+		Tooltip: ""
+	}
+
+	AnalogBox: {
+		DisplayName: Analog Box
+		Tooltip: ""
+	}
+
+	MushroomMalice: {
+		DisplayName: Mushroom Malice
+		Tooltip: ""
+	}
+
+	StrangePiece: {
+		DisplayName: Strange Piece (Terrifier)
+		Tooltip:
+			'''
+			A lost piece that looks to be part of
+			a bigger project. This piece came
+			from the Terrifier.
+			'''
+	}
+
+	AxeofFear: {
+		DisplayName: Axe of Fear
+		Tooltip:
+			'''
+			Shoots pieces of the axe
+			towards your enemies while
+			you swing the axe
+			'''
+	}
+
+	TerrifierRelic: {
+		DisplayName: Terrifier Relic
+		Tooltip:
+			'''
+			Congrats buddy, you just started
+			your nightmare. -Doshi
+			'''
+	}
+
+	HorrificEye: {
+		DisplayName: Horrific Eye
+		Tooltip: Summons the Terrifier
+	}
+
+	WhipofTorture: {
+		DisplayName: Whip of Torture
+		Tooltip:
+			'''
+			Whip your enemies at a
+			very large range
+			'''
+	}
+
+	BalisticTerrorStaff: {
+		DisplayName: Balistic Terror Staff
+		Tooltip:
+			'''
+			Shoots around 8 balls of
+			fear in a short distance towards
+			your enemies
+			'''
+	}
+
+	BallTerrifierStaff: {
+		DisplayName: Ball Terrifier Staff
+		Tooltip:
+			'''
+			Summons a ball of fear
+			to fight for you
+			'''
+	}
+
+	MaliciousNightmares: {
+		DisplayName: Malicious Nightmares
+		Tooltip:
+			'''
+			Shoots 3 Malicious Arrows
+			towards your enemies
+			'''
+	}
+
+	RubyGemilizer: {
+		DisplayName: Ruby Gemilizer
+		Tooltip: ""
+	}
+
+	AmethystGemilizer: {
+		DisplayName: Amethyst Gemilizer
+		Tooltip: ""
+	}
+
+	TopazGemilizer: {
+		DisplayName: Topaz Gemilizer
+		Tooltip: ""
+	}
+
+	SapphireGemilizer: {
+		DisplayName: Sapphire Gemilizer
+		Tooltip: ""
+	}
+
+	DiamondGemilizer: {
+		DisplayName: Diamond Gemilizer
+		Tooltip: ""
+	}
+
+	EmeraldGemilizer: {
+		DisplayName: Emerald Gemilizer
+		Tooltip: ""
+	}
+
+	BungleBlauncher: {
+		DisplayName: Bungle Blauncher
+		Tooltip: ""
+	}
+
+	AlienArtifact: {
+		DisplayName: Alien Artifact
+		Tooltip:
+			'''
+			A strange piece of technology that
+			seems to be from an entirely different 
+			world. What could this be used for?
+			'''
+	}
+
+	TivorbitalisticMatter: {
+		DisplayName: Tivorbitalistic Matter
+		Tooltip: ""
+	}
+
+	UnknownScripture: {
+		DisplayName: Unknown Scripture
+		Tooltip: ""
+	}
+
+	CrusableStone: {
+		DisplayName: Crusable Stone
+		Tooltip: ""
+	}
+
+	QuantumChargedBattery: {
+		DisplayName: Quantum Charged Battery
+		Tooltip: ""
+	}
+
+	BatteryCase: {
+		DisplayName: Battery Case
+		Tooltip: ""
+	}
+
+	Energy: {
+		DisplayName: Energy
+		Tooltip: ""
+	}
+
+	QuantumEnergy: {
+		DisplayName: Quantum Energy
+		Tooltip: ""
+	}
+
+	FrostbiteFlower: {
+		DisplayName: Frostbite Flower
+		Tooltip: ""
+	}
+
+	DecayMatter: {
+		DisplayName: Decay Matter
+		Tooltip: ""
+	}
+
+	TerrifierBag: {
+		DisplayName: Treasure Bag (Terrifier)
+		Tooltip: ""
+	}
+
+	BrittleLifter: {
+		DisplayName: Brittle Lifter
+		Tooltip:
+			'''
+			Gives you a huge boost to your jump height and
+			speed
+			'''
+	}
+
+	SoulifiedLifter: {
+		Tooltip:
+			'''
+			Gives you a huge boost to your jump height and
+			speed
+			'''
+		DisplayName: Soulified Lifter
+	}
+
+	CelestialLifter: {
+		Tooltip:
+			'''
+			Gives you a huge boost to your jump height and
+			speed
+			'''
+		DisplayName: Celestial Lifter
+	}
+
+	DecayedLifter: {
+		Tooltip:
+			'''
+			Gives you a huge boost to your jump height and
+			speed
+			'''
+		DisplayName: Decayed Lifter
+	}
+
+	SoulofArum: {
+		Tooltip: "'The essence of the dead'"
+		DisplayName: Soul of Arum
+	}
+
+	CrucibleStone: {
+		Tooltip: ""
+		DisplayName: Crucible Stone
+	}
+
+	AxitrentonCrystal: {
+		DisplayName: Axitrenton Crystal
+		Tooltip:
+			'''
+			A crystal filled with so much power
+			and timeless matter for unlimited
+			knowledge and transport
+			'''
+	}
+
+	AxitrentonBar: {
+		DisplayName: Axitrenton Bar
+		Tooltip: ""
+	}
+
+	AxitrentonObserver: {
+		DisplayName: Axitrenton Observer
+		Tooltip:
+			'''
+			A strange piece of equipment for creating very powerful
+			weapons. It seems to need a certain type of material for
+			these weapons
+			'''
+	}
+
+	AxyArkShooter: {
+		DisplayName: Axy Ark Shooter
+		Tooltip:
+			'''
+			Shoots multiple arrows along with some 
+			knifes towards your enemies
+			'''
+	}
+
+	AxyCaliber: {
+		DisplayName: Axy Caliber
+		Tooltip:
+			'''
+			Shoots knifes around you and
+			some large projectiles towards your
+			enemies
+			'''
+	}
+
+	AxyNemesis: {
+		DisplayName: Axy Nemesis
+		Tooltip: Showers powerful metorites at your enemies
+	}
+
+	NecklessoftheAxyConstitute: {
+		DisplayName: Neckless of the Axy Constitute
+		Tooltip:
+			'''
+			Gives a heavy damage boost to all classes 
+			when equipped
+			'''
+	}
+
+	AxypanionStaff: {
+		DisplayName: Axypanion Staff
+		Tooltip: Summons a small Axy friend to fight for you
+	}
+
+	CrystalCelestials: {
+		DisplayName: Crystal Celestials
+		Tooltip:
+			'''
+			Allows, flight, fast running, and mobility on ice.
+			14% increased movement speed
+			Provides you the ability to walk on water, honey, and lava.
+			Grants immunity to fire blocks and 10 seconds of immunity to lava.
+			Reduces damage from touching lava
+			Provides you the ability to launch youself when you double jump
+			'''
+	}
+
+	AxyShield: {
+		DisplayName: Axy Shield
+		Tooltip:
+			'''
+			Grants you the ability to dash really far and fast
+			You can't damage enemies & does not grant you immunity
+			to knockback when dashing
+			'''
+	}
+
+	IllusionaryDescendentBar: {
+		DisplayName: Illusionary Descendent Bar
+		Tooltip:
+			'''
+			'Beyond this point of all life, lies a knowledge so unlimited and powerful that it
+			made them cease to exist the moment they touched it. But those who survive, are the 
+			greatest beings to overcome their vision and mind as a whole. Let them lift the
+			multiple fabrics of all existence of time and space beyond the temple of the descendents'
+			'''
+	}
+
+	IllusionaryEateroftheUniverse: {
+		DisplayName: Illusionary Eater of the Universe
+		Tooltip: ""
+	}
+
+	AxyRelic: {
+		DisplayName: Axy Relic
+		Tooltip: ""
+	}
+
+	AxyBag: {
+		DisplayName: Treasure Bag (Axy)
+		Tooltip: ""
+	}
+
+	UnstableCrystal: {
+		DisplayName: Unstable Crystal
+		Tooltip: Summons Axy
+	}
+
+	SouloftheThriving: {
+		DisplayName: Soul of the Thriving
+		Tooltip: "'Many souls combined to one life form'"
+	}
+
+	ExoticFloralEssence: {
+		DisplayName: Exotic Floral Essence
+		Tooltip: ""
+	}
+
+	WoodenCrafter: {
+		DisplayName: Wooden Crafter
+		Tooltip: ""
+	}
+
+	JungleGymCrafter: {
+		DisplayName: Jungle Gym Crafter
+		Tooltip: ""
+	}
+
+	IndustrialCrafter: {
+		DisplayName: Industrial Crafter
+		Tooltip: ""
+	}
+
+	SeaSideCrafter: {
+		DisplayName: Sea Side Crafter
+		Tooltip: ""
+	}
+
+	CorruptedCrafter: {
+		DisplayName: Corrupted Crafter
+		Tooltip: ""
+	}
+
+	BloodyCrafter: {
+		DisplayName: Bloody Crafter
+		Tooltip: ""
+	}
+
+	LostJungleCrafter: {
+		DisplayName: Lost Jungle Crafter
+		Tooltip: ""
+	}
+
+	RattleBoneCrafter: {
+		DisplayName: Rattle Bone Crafter
+		Tooltip: ""
+	}
+
+	HellFireCrafter: {
+		DisplayName: Hell Fire Crafter
+		Tooltip: ""
+	}
+
+	CrystalShatterCrafter: {
+		DisplayName: Crystal Shatter Crafter
+		Tooltip: ""
+	}
+
+	WiredSlotCrafter: {
+		DisplayName: Wired Slot Crafter
+		Tooltip: ""
+	}
+
+	HallowedCrafter: {
+		DisplayName: Hallowed Crafter
+		Tooltip: ""
+	}
+
+	TerrifiedBoneCrafter: {
+		DisplayName: Terrified Bone Crafter
+		Tooltip: ""
+	}
+
+	MechanicalCrafter: {
+		DisplayName: Mechanical Crafter
+		Tooltip: ""
+	}
+
+	EnragedJungleCrafter: {
+		Tooltip: ""
+		DisplayName: Enraged Jungle Crafter
+	}
+
+	ExtrauniversalbilityofallExsistence: {
+		DisplayName: Extra-Universalbility of all Exsistence
+		Tooltip:
+			'''
+			'BEINGS THAT REACH TO THIS POINT OF POWER, YOU HAVE BEEN WARNED. THE LANDS WILL MOVE, THE OCEANS WILL SETTLE
+			TO NOTHING, AND WORST OF ALL: THE STARS WILL FALL, YOUR WORLD WILL FALL, YOUR MIND WILL FALL, AND YOUR PURPOSE 
+			WILL ONLY RELY ON THE LAST MALEVOLENT SUPERNOVA OF ALL BEINGS AND BLOCKS TO EVER LIVE AND MOVE. THE TIME HAS COME, 
+			RELEASE THE ARTIFACT TO THE SKY, AND FACE THE KING OF ALL OF TIMES CRUSADE'
+			'''
+	}
+
+	SystemicCrafter: {
+		DisplayName: Systemic Crafter
+		Tooltip: ""
+	}
+
+	LunarTempest: {
+		Tooltip: ""
+		DisplayName: Lunar Tempest
+	}
+
+	SeaMonolith: {
+		DisplayName: Sea Monolith
+		Tooltip: ""
+	}
+
+	ZebraMK12: {
+		DisplayName: Zebra MK12
+		Tooltip: ""
+	}
+
+	Lunarang: {
+		DisplayName: Lunarang
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	BoulderProjectile.DisplayName: Boulder Projectile
+	CraftyProjectile.DisplayName: Crafty Projectile
+	CrystalProjectile.DisplayName: Crystal Projectile
+	GladiatorProjectile.DisplayName: Gladiator Projectile
+	SaliquentProjectile.DisplayName: Saliquent Projectile
+	GalacticProjectile.DisplayName: Galactic Projectile
+	JungleProjectile.DisplayName: Jungle Projectile
+	NeutralityProjectile.DisplayName: Neutrality Projectile
+	NeutralityBullet.DisplayName: Neutrality Bullet
+	NeutralityStar.DisplayName: Neutrality Star
+	NeutralityProjectile1.DisplayName: Neutrality Projectile1
+	NeutralityProjectile2.DisplayName: Neutrality Projectile2
+	NeutralityBulletProj.DisplayName: Neutrality Bullet Proj
+	NeutralityMeteor.DisplayName: Neutrality Meteor
+	CrusaderFlame.DisplayName: Crusader Flame
+	CrusadersMouth.DisplayName: Crusaders Mouth
+	CypheringSlices.DisplayName: Cyphering Slices
+	StonePebble.DisplayName: Stone Pebble
+	LargeStonePebble.DisplayName: Large Stone Pebble
+	WoodenKnifeProjectile.DisplayName: Wooden Knife Projectile
+	StarlightSwing.DisplayName: Starlight Swing
+	FlowerSeedBullet.DisplayName: Flower Seed Bullet
+	QuantumRocket.DisplayName: Quantum Rocket
+	ElementalBullet.DisplayName: Elemental Bullet
+	SolidifierBall.DisplayName: Solidifier Ball
+	CrusadersKey.DisplayName: Crusaders Key
+	StonedBullet.DisplayName: Stoned Bullet
+	SphericalBall.DisplayName: Spherical Ball
+	MushroomProjectile.DisplayName: Mushroom Projectile
+	GlowingMushroomProjectile.DisplayName: Glowing Mushroom Projectile
+	GlowingMushroomRocket.DisplayName: Glowing Mushroom Rocket
+	MushroomRocket.DisplayName: Mushroom Rocket
+	TinyGlowingMushroom.DisplayName: Tiny Glowing Mushroom
+	TinyMushroom.DisplayName: Tiny Mushroom
+	DuelMushroomBasher.DisplayName: Duel Mushroom Basher
+	ElementalProtector.DisplayName: Elemental Protector
+	ElementalWhip.DisplayName: Elemental Whip
+	IntersectionCrystal.DisplayName: Intersection Crystal
+	StarlightBeam.DisplayName: Starlight Beam
+	StarlightBeamHoldout.DisplayName: Starlight Beam Holdout
+	TerrifierPebble.DisplayName: Terrifier Pebble
+	AxeofFear.DisplayName: Axeof Fear
+	WhipofTorture.DisplayName: Whipof Torture
+	BalisticBall.DisplayName: Balistic Ball
+	BallTerrifier.DisplayName: Ball Terrifier
+	MaliciousArrow.DisplayName: Malicious Arrow
+	BungleBomb.DisplayName: Bungle Bomb
+	AxyKnife.DisplayName: Axy Knife
+	AxyStar.DisplayName: Axy Star
+	AxyArrow.DisplayName: Axy Arrow
+	AxyMagic.DisplayName: Axy Magic
+	AxyCloud.DisplayName: Axy Cloud
+	Axypanion.DisplayName: Axypanion
+	AxyCrystal.DisplayName: Axy Crystal
+	WoodCrafterPellet.DisplayName: Wood Crafter Pellet
+	JungleVine.DisplayName: Jungle Vine
+	CopperPebble.DisplayName: Copper Pebble
+	ShellPebble.DisplayName: Shell Pebble
+	CorruptedTeeth.DisplayName: Corrupted Teeth
+	BloodyPebble.DisplayName: Bloody Pebble
+	WoodenCrafter.DisplayName: Wooden Crafter
+	JungleStinger.DisplayName: Jungle Stinger
+	RattleBone.DisplayName: Rattle Bone
+	FireBall.DisplayName: Fire Ball
+	CrystalShard.DisplayName: Crystal Shard
+	GiantWire.DisplayName: Giant Wire
+	HallowHam.DisplayName: Hallow Ham
+	TerrifiedBone.DisplayName: Terrified Bone
+	GreanPebble.DisplayName: Grean Pebble
+	RedPebble.DisplayName: Red Pebble
+	BluePebble.DisplayName: Blue Pebble
+	SystemicPebble.DisplayName: Systemic Pebble
+	YoyoProtector.DisplayName: Yoyo Protector
+	LihzahrdTemplePiece.DisplayName: Lihzahrd Temple Piece
+	SeaMonolith.DisplayName: Sea Monolith
+	ZebraBullet.DisplayName: Zebra Bullet
+	Lunarang.DisplayName: Lunarang
+}
+
+Tiles: {
+	TunctumOre.MapEntry: Tunctum
+	SciFiOre.MapEntry: SciFi
+	QualityAnalizer.MapEntry: Quality Analizer
+	ZilvicOreTile.MapEntry: Zilvic
+	QualityAnalizerTile.MapEntry: Quality Analizer Tile
+	CrusaderAnvil.MapEntry: Crusader Anvil
+	NeutralStone.MapEntry: Neutral Stone
+	Decomposer.MapEntry: Decomposer
+	ColeadOre.MapEntry: Colead Ore
+	TitraniumOre.MapEntry: Titranium Ore
+	QualityAnalyzer.MapEntry: Quality Analyzer
+	AxitrentonObserver.MapEntry: Axitrenton Observer
+}
+
+NPCs: {
+	Asphalia.DisplayName: Asphalia
+	NeutralWormBody.DisplayName: Neutral Worm
+
+	NeutralWormHead: {
+		DisplayName: Neutral Worm
+		Bestiary: Mods.TimeCrusadeMod.NPCs.NeutralWormHead.Bestiary
+	}
+
+	NeutralWormTail.DisplayName: Neutral Worm
+	WormofNeutralityBody.DisplayName: Worm of Neutrality
+
+	WormofNeutralityHead: {
+		DisplayName: Worm of Neutrality
+		Bestiary: Mods.TimeCrusadeMod.NPCs.WormofNeutralityHead.Bestiary
+	}
+
+	WormofNeutralityTail.DisplayName: Worm of Neutrality
+	TerrifierBody.DisplayName: Terrifier
+
+	TerrifierHead: {
+		DisplayName: Terrifier
+		"A giant worm filled with delusional fear and hopeless souls. It will kill anything without mercy and leave them to rot in their mind.": Mods.TimeCrusadeMod.NPCs.TerrifierHead.A giant worm filled with delusional fear and hopeless souls. It will kill anything without mercy and leave them to rot in their mind.
+	}
+
+	TerrifierTail.DisplayName: Terrifier
+
+	Axy: {
+		DisplayName: Axy
+		"A Crystal with almost limitless energy and transport. It seem to came from space a set itself to live here for the time being.": Mods.TimeCrusadeMod.NPCs.Axy.A Crystal with almost limitless energy and transport. It seem to came from space a set itself to live here for the time being.
+	}
+
+	AxyHelper.DisplayName: Axy Helper
+
+	NeutralSlime: {
+		DisplayName: Neutral Slime
+		Bestiary: Mods.TimeCrusadeMod.NPCs.NeutralSlime.Bestiary
+	}
+
+	GiantNeutralSlime: {
+		DisplayName: Giant Neutral Slime
+		Bestiary: Mods.TimeCrusadeMod.NPCs.GiantNeutralSlime.Bestiary
+	}
+}
+
+Biomes: {
+	NeutralUndergroundBiome: {
+		TownNPCDialogueName: the Neutral Underground Biome
+		DisplayName: Neutral Underground Biome
+	}
+
+	NeutralSurfaceBiome: {
+		TownNPCDialogueName: the Neutral Surface Biome
+		DisplayName: Neutral Surface Biome
+	}
+}
+
+Conditions.InNeutralBiome: in Neutral Biome
+
+Buffs: {
+	ElementalProtectorBuff: {
+		DisplayName: Elemental Protector Buff
+		Description: An elemental crystal to protect you
+	}
+
+	BallTerrifierBuff: {
+		DisplayName: Ball Terrifier Buff
+		Description: A ball of fear to allude from your soul
+	}
+
+	AxyFriendBuff: {
+		DisplayName: Axy Friend Buff
+		Description: A small friend of Axy to fight for you
+	}
+}
+
+DamageClasses.CrafterDamageClass.DisplayName: crafter damage
