@@ -1,0 +1,60 @@
+------Time Crusade Mod------
+
+Welcome to the TimeCrusadeMod! This mod brings many different variety of things such as:
+
+-New items
+>New armor
+>New consumables
+>New ores/bars
+>New weapons
+>New tools
+>New ammo
+
+-New NPCs
+>New bosses
+
+-----UPDATE LOGS(0.8.2)------
+[NEW WEAPONS{General}]:
+-----------------------
+-Ruby Gemilizer
+-Topaz Gemilizer
+-Sapphire Gemilizer
+-Amethyst Gemilizer
+-Bungle Blauncher
+
+[NEW PLACEABLES]:
+-----------------
+-Alien Artifact
+-Quantum Charged Battery
+-Unknown Scripture
+-Crucible Stone
+-Decay Matter
+-Energy
+-Quantum Energy
+-Trampled Dirt
+
+[NEW BOSS]:
+-----------
+Boss: Terrifier
+|New Items with this boss|
+
+[NEW REWORKS]:
+--------------
+-Asphalia
+-Soul of Arum (Soul of Death but the name is changed, and other things)
+-Asphalia Bag |Small rework|
+-Brittle Rock |Small Rework|
+-Recipes with some of the items
+
+[BUG FIXES]:
+------------
+-Neutral Worm + Worm of Neutrality gores spawning[FIXED]
+
+[OTHER]:
+--------
+-Deleted all of the Crusader items + Clockwork Essence
+-New mod icon
+
+Credits:
+
+Creator: Mr.Doshi

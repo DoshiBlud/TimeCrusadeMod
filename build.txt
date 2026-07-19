@@ -1,0 +1,3 @@
+displayName = Time Crusade Mod
+author = Mr. Doshi
+version = 0.8.2

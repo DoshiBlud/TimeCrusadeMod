@@ -1,0 +1,13 @@
+C:\Users\DeanS\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimeCrusadeMod\bin\Debug\net8.0\TimeCrusadeMod.deps.json
+C:\Users\DeanS\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimeCrusadeMod\bin\Debug\net8.0\TimeCrusadeMod.dll
+C:\Users\DeanS\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimeCrusadeMod\bin\Debug\net8.0\TimeCrusadeMod.pdb
+C:\Users\DeanS\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimeCrusadeMod\obj\Debug\net8.0\TimeCrusadeMod.csproj.AssemblyReference.cache
+C:\Users\DeanS\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimeCrusadeMod\obj\Debug\net8.0\TimeCrusadeMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeanS\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimeCrusadeMod\obj\Debug\net8.0\TimeCrusadeMod.AssemblyInfoInputs.cache
+C:\Users\DeanS\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimeCrusadeMod\obj\Debug\net8.0\TimeCrusadeMod.AssemblyInfo.cs
+C:\Users\DeanS\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimeCrusadeMod\obj\Debug\net8.0\TimeCrusadeMod.csproj.CoreCompileInputs.cache
+C:\Users\DeanS\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimeCrusadeMod\obj\Debug\net8.0\TimeCrusadeMod.dll
+C:\Users\DeanS\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimeCrusadeMod\obj\Debug\net8.0\refint\TimeCrusadeMod.dll
+C:\Users\DeanS\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimeCrusadeMod\obj\Debug\net8.0\TimeCrusadeMod.pdb
+C:\Users\DeanS\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimeCrusadeMod\obj\Debug\net8.0\ref\TimeCrusadeMod.dll
+C:\Users\DeanS\OneDrive\Documents\My Games\Terraria\tModLoader\ModSources\TimeCrusadeMod\obj\Debug\net8.0\TimeCrusadeMod.sourcelink.json

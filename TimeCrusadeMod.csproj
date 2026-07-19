@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<!-- Import tModLoader mod properties -->
+	<Import Project="..\tModLoader.targets" />
+
+	<!-- General -->
+	<PropertyGroup>
+		
+	</PropertyGroup>
+	<ItemGroup>
+	  <Folder Include="Common\Players\" />
+	  <Folder Include="Content\NPCs\Axy\Gores\" />
+	  <Folder Include="Content\NPCs\Gores\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <None Include="Content\Items\Weapons\Magic\AxyNemesis.cs" />
+	</ItemGroup>
+
+	<!-- References -->
+
+</Project>
